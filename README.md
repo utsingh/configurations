@@ -1,0 +1,2 @@
+# configurations
+MacOS / Linux configurations
